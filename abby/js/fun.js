@@ -1,7 +1,7 @@
-var element = document.getElementById("name1"); //grab the element
-element.onclick = function() { //asign a function
-  alert("you clicked me! now what")
-}
+//var element = document.getElementById("name1"); //grab the element
+//element.onclick = function() { //asign a function
+//  alert("you clicked me! now what")
+//}
 
 
 
