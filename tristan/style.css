@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(black, yellow, red, blue);
+    text-align: center;
+}
+
+h1 {
+    color: white
+}
+
+img {
+    display: block;
+    margin: 5px auto;
+}
