@@ -9,12 +9,12 @@ A typical day introduces the students to a variety of experiences common in the 
 
 ### Highlights
 - QA session with software, design, and back office teams
-- learn about the process and tools for software delivery and communication
-- experience a code and architecture review for a software system
-- architect and implement individual projects with guidance from crafters
-- participate in a conversation about a code base while mob or pair programming
-- introduction to git (a fundamental collaborative versioning system)
-- join a software or design team for a daily standup or retrospective
+- Learn about the process and tools for software delivery and communication
+- Experience a code and architecture review for a software system
+- Architect and implement individual projects with guidance from crafters
+- Participate in a conversation about a code base while mob or pair programming
+- Collaborate using git a fundamental collaborative versioning tool
+- Join a team for the agile software development practise of the daily standup or retrospective
   
 Depending on the student interests a variety of student projects are available
  
