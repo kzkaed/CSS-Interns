@@ -24,7 +24,7 @@ _Storyboarding Mobile Apps in Xcode with Swift_
  
 _Imperative vs Function Programming Languages_
  
-_Koans - Programming Puzzles in a variety of languages_
+_Koans - Programming Puzzles in a Variety of Languages_
  
 See Student Projects: <https://kzkaed.github.io/student-projects/>
 
