@@ -37,19 +37,20 @@ __Tristan__
 
  <http://kzkaed.github.io/CSS-Interns/tristan>  
 
- https://github.com/kzkaed/CSS-Interns/tree/master/tristan
+ <https://github.com/kzkaed/CSS-Interns/tree/master/tristan>
 
 __Abby__  
 
- <http://kzkaed.github.io/CSS-Interns/abby> 
+ <http://kzkaed.github.io/CSS-Interns/abby>  
+ 
 
- https://github.com/kzkaed/CSS-Interns/tree/master/abby
+ <https://github.com/kzkaed/CSS-Interns/tree/master/abby>
 
 __Charlie__
 
  <http://kzkaed.github.io/CSS-Interns/charlie> 
 
- https://github.com/kzkaed/CSS-Interns/tree/master/charlie
+ <https://github.com/kzkaed/CSS-Interns/tree/master/charlie>
 
 
 ### Notes
