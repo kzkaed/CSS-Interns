@@ -1,6 +1,6 @@
 Projects for CSS Interns
 
-http://kzkaed.github.io/CSS-Interns/
+<http://kzkaed.github.io/CSS-Interns/>
 
 Each year, a group of interested 8th graders from Catherine Cook School are able to attend a day of software or design Apprentiship at 8th Light. 
 A typical day introduces the students to software, design, executive and back office teams with a QA session with each of the teams. From there the students join 
@@ -24,16 +24,17 @@ A typical day introduces the students to software, design, executive and back of
  Storyboarding Mobile Apps
  Imperative vs Function Programming Languages
  
- http://kzkaed.github.io/LaneTechWorkshop/
-
- Project artifacts
+See: <https://kzkaed.github.io/student-projects/>
 
 
-Tristan  http://kzkaed.github.io/CSS-Interns/tristan
+Project artifacts
 
-Abby  http://kzkaed.github.io/CSS-Interns/abby
 
-Charlie  http://kzkaed.github.io/CSS-Interns/charlie
+Tristan  <http://kzkaed.github.io/CSS-Interns/tristan>
+
+Abby  <http://kzkaed.github.io/CSS-Interns/abby>
+
+Charlie  <http://kzkaed.github.io/CSS-Interns/charlie>
 
 
 
