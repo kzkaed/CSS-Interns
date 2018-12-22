@@ -18,13 +18,13 @@ A typical day introduces the students to a variety of experiences common in the 
   
 Depending on the student interests a variety of student projects are available
  
-> _Introduction to HTML, CSS and JavaScript_ 
+ ***Introduction to HTML, CSS and JavaScript*** 
  
-> _Storyboarding Mobile Apps in Xcode with Swift_
+ ***Storyboarding Mobile Apps in Xcode with Swift***
  
-> _Imperative vs Function Programming Languages_
+ ***Imperative vs Function Programming Languages***
  
-> _Koans - Programming Puzzles in a Variety of Languages_
+ ***Koans - Programming Puzzles in a Variety of Languages***
  
 See Student Projects: <https://kzkaed.github.io/student-projects/>
 
