@@ -31,7 +31,7 @@ See Student Projects: <https://kzkaed.github.io/student-projects/>
 
 ### Sample Project Artifacts
 
-These students coded a website with html, css and javascript. 
+These students coded a website with html, css and javascript while pairing with a crafter. Each was able to follow their own learning path and focus on unique technical interests within the scope of a website project.
 
 __Tristan__ 
 
