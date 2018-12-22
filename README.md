@@ -22,7 +22,7 @@ Depending on the student interests a variety of student projects are available
  
  [Storyboarding Mobile Apps in Xcode with Swift](https://kzkaed.github.io/student-projects/mobile-ios-swift)
  
-Imperative vs Function Programming Languages
+Imperative vs Functional Programming Languages
  
  Koans - Programming Puzzles in a Variety of Languages
  
