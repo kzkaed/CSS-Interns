@@ -1,4 +1,4 @@
-#Projects for CSS Interns
+# Projects for CSS Interns
 
 <http://kzkaed.github.io/CSS-Interns/>
 
@@ -6,7 +6,7 @@ Each year, a group of 8th graders from Catherine Cook School are able to attend 
 
 A typical day introduces the students to software, design, executive and back office teams with a QA session with each of the teams. 
 
-###Highlights
+### Highlights
  - students join a software or design team for a daily standup or retrospective
  - learn and experience the process and tools for software elivery and communication
  - learn and experience a code and architecture review for the software system
@@ -16,18 +16,18 @@ A typical day introduces the students to software, design, executive and back of
   
 Depending on the student interests a variety of student projects are available
  
- Introduction to HTML, CSS and JavaScript 
+_Introduction to HTML, CSS and JavaScript_ 
  
- Storyboarding Mobile Apps
+_Storyboarding Mobile Apps_
  
- Imperative vs Function Programming Languages
+_Imperative vs Function Programming Languages_
  
- Koans
+_Koans - Programming Puzzles in a vaiety of languages_
  
 See Student Projects: <https://kzkaed.github.io/student-projects/>
 
 
-###Sample Project Artifacts
+### Sample Project Artifacts
 
 Tristan  <http://kzkaed.github.io/CSS-Interns/tristan>
 
@@ -36,7 +36,7 @@ Abby  <http://kzkaed.github.io/CSS-Interns/abby>
 Charlie  <http://kzkaed.github.io/CSS-Interns/charlie>
 
 
-###Notes
+### Notes
 
 An imperative language uses a sequence of statements to determine how to reach a certain goal. These statements are said to change the state of the program as each one is executed in turn.
 
