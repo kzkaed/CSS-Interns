@@ -53,9 +53,3 @@ __Charlie__
  <https://github.com/kzkaed/CSS-Interns/tree/master/charlie>
 
 
-### Notes
-
-An imperative language uses a sequence of statements to determine how to reach a certain goal. These statements are said to change the state of the program as each one is executed in turn.
-
-
-The functional programming paradigm was explicitly created to support a pure functional approach to problem solving. Functional programming is a form of declarative programming.
