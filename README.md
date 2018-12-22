@@ -31,7 +31,7 @@ See Student Projects: <https://kzkaed.github.io/student-projects/>
 
 ### Sample Project Artifacts
 
-These students build from scratch a website using html, css and javascript. 
+These students coded a website with html, css and javascript. 
 
 __Tristan__ 
 
