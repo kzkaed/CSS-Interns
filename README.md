@@ -18,7 +18,7 @@ A typical day introduces the students to a variety of experiences common in the 
   
 Depending on the student interests a variety of student projects are available
  
- ***Introduction to HTML, CSS and JavaScript*** 
+ [***Introduction to HTML, CSS and JavaScript***](https://kzkaed.github.io/student-projects/html-css-js) 
  
  ***Storyboarding Mobile Apps in Xcode with Swift***
  
