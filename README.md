@@ -35,21 +35,21 @@ These students build from scratch a website using html, css and javascript.
 
 __Tristan__ 
 
-website <http://kzkaed.github.io/CSS-Interns/tristan>  
+ <http://kzkaed.github.io/CSS-Interns/tristan>  
 
-code https://github.com/kzkaed/CSS-Interns/tree/master/tristan
+ https://github.com/kzkaed/CSS-Interns/tree/master/tristan
 
 __Abby__  
 
-website <http://kzkaed.github.io/CSS-Interns/abby> 
+ <http://kzkaed.github.io/CSS-Interns/abby> 
 
-code https://github.com/kzkaed/CSS-Interns/tree/master/abby
+ https://github.com/kzkaed/CSS-Interns/tree/master/abby
 
 __Charlie__
 
-website <http://kzkaed.github.io/CSS-Interns/charlie> 
+ <http://kzkaed.github.io/CSS-Interns/charlie> 
 
-code https://github.com/kzkaed/CSS-Interns/tree/master/charlie
+ https://github.com/kzkaed/CSS-Interns/tree/master/charlie
 
 
 ### Notes
